@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Aishwarya Mishra</title>
-    <link>http://localhost:54588/tags/</link>
+    <link>http://localhost:58781/tags/</link>
     <description>Recent content in Tags on Aishwarya Mishra</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 14 Jun 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:54588/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:58781/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tutorial</title>
-      <link>http://localhost:54588/tags/tutorial/</link>
+      <link>http://localhost:58781/tags/tutorial/</link>
       <pubDate>Wed, 14 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:54588/tags/tutorial/</guid>
+      <guid>http://localhost:58781/tags/tutorial/</guid>
       <description></description>
     </item>
     <item>
       <title>Blogdown</title>
-      <link>http://localhost:54588/tags/blogdown/</link>
+      <link>http://localhost:58781/tags/blogdown/</link>
       <pubDate>Sun, 14 Feb 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:54588/tags/blogdown/</guid>
+      <guid>http://localhost:58781/tags/blogdown/</guid>
       <description></description>
     </item>
     <item>
       <title>Markdown</title>
-      <link>http://localhost:54588/tags/markdown/</link>
+      <link>http://localhost:58781/tags/markdown/</link>
       <pubDate>Sun, 14 Feb 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:54588/tags/markdown/</guid>
+      <guid>http://localhost:58781/tags/markdown/</guid>
       <description></description>
     </item>
     <item>
       <title>MathJax</title>
-      <link>http://localhost:54588/tags/mathjax/</link>
+      <link>http://localhost:58781/tags/mathjax/</link>
       <pubDate>Sun, 14 Feb 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:54588/tags/mathjax/</guid>
+      <guid>http://localhost:58781/tags/mathjax/</guid>
       <description></description>
     </item>
     <item>
       <title>Pandoc</title>
-      <link>http://localhost:54588/tags/pandoc/</link>
+      <link>http://localhost:58781/tags/pandoc/</link>
       <pubDate>Sun, 14 Feb 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:54588/tags/pandoc/</guid>
+      <guid>http://localhost:58781/tags/pandoc/</guid>
       <description></description>
     </item>
     <item>
       <title>RStudio</title>
-      <link>http://localhost:54588/tags/rstudio/</link>
+      <link>http://localhost:58781/tags/rstudio/</link>
       <pubDate>Sun, 14 Feb 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:54588/tags/rstudio/</guid>
+      <guid>http://localhost:58781/tags/rstudio/</guid>
       <description></description>
     </item>
   </channel>
